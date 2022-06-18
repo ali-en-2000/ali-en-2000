@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+My name is Ali Reza Mohammadi
+
+===============================
+
+Front End Developer
+
+Love the challenges Programming
+-----------------------------
+
+🤝 I'm open to collaborating on interesting projects as a front end developer
+
+
+Skills
+Javascript HTML5 CSS3 react js vue js nuxt Bootstrap tailwind JQuery
+
+
 <!--
 **ali-en-2000/ali-en-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
